@@ -1,0 +1,2 @@
+doctrine:
+    dbal: { connections: { default: { host: localhost, port: 3306, user: sammy, password: Sam@12345, dbname: group_project } } }
